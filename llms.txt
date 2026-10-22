@@ -1,0 +1,10 @@
+# Adsun Channel Advertising Guide
+
+> Public channel setup and sponsored-post lifecycle; no invented channel API.
+
+## Canonical sources
+- [README](https://github.com/Adsuner/adsun-channel-ads-guide/blob/main/README.md): setup, scope and limitations.
+- [Official Adsun documentation](https://adsun.io/documentation/publisher/telegram-channel): upstream API/workflow reference.
+
+## Boundaries
+Independent teaching example, not proprietary SDK source. No credentials or environment files. Browser SDK is loaded only from https://api.adsun.io/sdk.js. No guarantee of search or AI indexing.
